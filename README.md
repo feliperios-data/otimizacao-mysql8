@@ -56,17 +56,17 @@ Abaixo estão os testes realizados no chat validando o uso restrito às fontes f
 Arquivos extraídos do Estúdio do Gemini Notebook e salvos neste repositório:
 
 - 🖼️ **Visão Geral do Notebook e Fontes:**
-  <img src="./assets/nome-da-sua-imagem-de-fontes.png" width="600">
+  ![Visão Geral](./assets/CitaçõesUtilizadas.png)
 
 - 🖼️ **Prints das Citações no Chat:**
-  <img src="./assets/CitaçõesUtilizadas.png" width="600">
+  ![Citações](./assets/CitaçõesUtilizadas.png)
 
 - 🧠 **Mapa Mental:**
-  <img src="./assets/NotebookLMMindMap.png" width="600">
+  ![Mapa Mental](./assets/NotebookLMMindMap.png)
 
-- 📊 **Apresentação/Slides:** [Clique aqui para baixar os Slides](./assets/nome-dos-seus-slides.pdf)
+- 📊 **Apresentação/Slides:** `[nome-dos-seus-slides.pdf]`
 
-- 🎧 **Resumo em Áudio (Podcast):** [Clique aqui para ouvir o Resumo](./assets/nome-do-seu-audio.mp3)
+- 🎧 **Resumo em Áudio (Podcast):** `[nome-do-seu-audio.mp3 ou .wav]`
 ---
 
 ## 🔗 Link do Gemini Notebook Compartilhado
