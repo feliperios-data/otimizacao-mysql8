@@ -56,9 +56,9 @@ Abaixo estão os testes realizados no chat validando o uso restrito às fontes f
 Arquivos extraídos do Estúdio do Gemini Notebook e salvos neste repositório:
 
 * 🖼️ **Prints das Citações:**
-* ![Citações](./assets/CitaçõesUtilizadas.png)
+ ![Citações](./assets/CitaçõesUtilizadas.png)
 * 🧠 **Mapa Mental:**
-* ![Mapa Mental do Notebook](./assets/NotebookLMMindMap.png)
+ ![Mapa Mental do Notebook](./assets/NotebookLMMindMap.png)
 * 📊 **Apresentação/Slides:** `[nome-dos-seus-slides.pdf]`
 * 🎧 **Resumo em Áudio (Podcast):** `[nome-do-seu-audio.mp3 ou .wav]`
 
