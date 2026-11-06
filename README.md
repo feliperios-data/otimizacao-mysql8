@@ -64,7 +64,7 @@ Arquivos extraídos do Estúdio do Gemini Notebook e salvos neste repositório:
 - 🧠 **Mapa Mental:**
   ![Mapa Mental](./assets/NotebookLMMindMap.png)
 
-- 📊 **Apresentação/Slides:** `[nome-dos-seus-slides.pdf]`
+- 📊 **Apresentação/Slides:** [Visualizar MySQL 8 Performance Playbook](./assets/MySQL_8_Performance_Playbook.pdf)
 
 - 🎧 **Resumo em Áudio (Podcast):** `[nome-do-seu-audio.mp3 ou .wav]`
 ---
