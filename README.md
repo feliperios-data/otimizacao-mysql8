@@ -65,4 +65,4 @@ Arquivos extraídos do Estúdio do Gemini Notebook e salvos neste repositório:
 ## 🔗 Link do Gemini Notebook Compartilhado
 
 Acesse o caderno interativo diretamente pelo link abaixo:  
-👉 **[COLE AQUI O LINK PÚBLICO DO SEU GEMINI NOTEBOOK]**
+👉 **https://notebook.google.com/notebook/beb63101-6177-43df-b3ee-8585a7f5088a**
