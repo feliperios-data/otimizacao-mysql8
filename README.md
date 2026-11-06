@@ -66,7 +66,7 @@ Arquivos extraídos do Estúdio do Gemini Notebook e salvos neste repositório:
 
 - 📊 **Apresentação/Slides:** [Visualizar MySQL 8 Performance Playbook](./assets/MySQL_8_Performance_Playbook.pdf)
 
-- 🎧 **Resumo em Áudio (Podcast):** `[nome-do-seu-audio.mp3 ou .wav]`
+- 🎧 **Resumo em Áudio (Podcast):** [Ouvir Resumo: Como acelerar consultas no MySQL 8](./assets/Como_acelerar_consultas_no_MySQL_8.m4a)
 ---
 
 ## 🔗 Link do Gemini Notebook Compartilhado
